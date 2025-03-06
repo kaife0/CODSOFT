@@ -11,7 +11,7 @@ int main() {
     vector<string> tasks;
     char choice;
     do {
-        cout << "\nWelcome to Simple To-Do List!" << endl;
+        cout << "\nWelcome to Simple To-Do List!" << endl; 
         cout << "1. Add Task" << endl;
         cout << "2. View Tasks" << endl;
         cout << "3. Delete Task" << endl;
