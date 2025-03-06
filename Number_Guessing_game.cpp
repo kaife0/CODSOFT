@@ -9,7 +9,7 @@ int main(){
     do{
     cout<< "I have a number , guess what it is \n";
     cin >> guess;
-    if(guess>n){
+    if(guess>n){ 
         cout << "Lower number please "<< endl;
     }
     else if(guess<n){
