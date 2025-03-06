@@ -16,7 +16,7 @@ int main(){
         case '-':
         cout << a-b;
         break;
-        case '*':
+        case '*': 
         cout << a*b;
         break;
         case '/':
