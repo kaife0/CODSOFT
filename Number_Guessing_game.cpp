@@ -4,7 +4,7 @@
 using namespace std;
 int main(){
     int n, guess, nguess=1;
-    srand(time(0));
+    srand(time(0)); 
     n=rand()%100+1;
     do{
     cout<< "I have a number , guess what it is \n";
