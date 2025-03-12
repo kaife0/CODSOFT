@@ -2,7 +2,7 @@
 #include <cstdlib>
 
 using namespace std;
-
+ 
 void printBoard(); 
 int checkwin();
 
