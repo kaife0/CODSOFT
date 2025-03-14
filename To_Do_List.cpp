@@ -5,7 +5,7 @@ using namespace std;
 
 void addTask(vector<string> &tasks);
 void viewTasks(const vector<string> &tasks);
-void deleteTask(vector<string> &tasks);
+void deleteTask(vector<string> &tasks); 
 
 int main() {
     vector<string> tasks;
