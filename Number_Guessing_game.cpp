@@ -7,7 +7,7 @@ int main(){
     srand(time(0)); 
     n=rand()%100+1;
     do{
-    cout<< "I have a number , guess what it is \n";
+    cout<< "I have a number , guess what it is \n"; 
     cin >> guess;
     if(guess>n){ 
         cout << "Lower number please "<< endl;
