@@ -5,7 +5,7 @@ int main(){
     char c;
     cout<< "Enter number" <<endl;
     cin >>  a ;
-    cout << "Enter operator (+,-,/,*): ";
+    cout << "Enter operator (+,-,/,*): "; 
     cin >> c ;
     cout << "Enter second number" << endl;
     cin >> b ;
