@@ -2,6 +2,7 @@
 #include<cstdlib>
 #include<ctime>
 using namespace std;
+
 int main(){
     int n, guess, nguess=1;
     srand(time(0)); 
